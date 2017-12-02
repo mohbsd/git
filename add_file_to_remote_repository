@@ -1,0 +1,6 @@
+~ How to add files to remote repository ~
+
+# git add .
+# git config --global user.email "mohbsd@gmail.com"
+# git commit -m "changes"
+# git push origin master
