@@ -1,6 +1,6 @@
 ~ How to add files to remote repository ~
 
 # git add .
-# git config --global user.email "mohbsd@gmail.com"
+								# git config --global user.email "mohbsd@gmail.com" >> sometime asked to set your account's default identity
 # git commit -m "changes"
 # git push origin master
